@@ -12,6 +12,9 @@ based on if the query term appears in the course title or course description, gi
 As of now, the new information retrieval system only works with the 48 courses that are offered as part of the <a href="https://www.cdm.depaul.edu/academics/Pages/current/Requirements-MS-In-Data-Science-Computational-Methods.aspx">Data Science
 Computational Method's</a> concentration curriculum.
 
+## Information Retrieval System Demo
+<a href="https://youtu.be/WmuQJ4BDwx8">Demo</a>
+
 ## Files
 <ul>
 <li>course_crawler.py
@@ -60,5 +63,3 @@ Computational Method's</a> concentration curriculum.
 ## Test Results
 
 ![Test Results](./Images/weights_image.png)
-
-## Information Retrieval System Examples 
