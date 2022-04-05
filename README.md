@@ -42,3 +42,12 @@ Computational Method's</a> concentration curriculum.
 ## Test Results
 
 ![Test Results](./Images/weights_image.png)
+
+## Future Work
+There still are a few limitations for further development. One big limitation is the sample size of the documents. 
+For now, the courses indexed are only the ones part of the Data Science Computational Methods course catalog. 
+Also, there is no way to filter the courses based on the time of the year the class is offered or for keyword analysis 
+on different synonyms or similar phrases. Further research needs to be done to validate the appropriate value for the 
+course topic weight parameter. Relevance feedback could be used in the future to help approximate this value. Future 
+steps include creating a server side for the index/dictionary and postings list based on their relational database 
+structure. 
